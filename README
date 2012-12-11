@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 William Falk-Wallace
 wfalkwallace@gmail.com
 
@@ -27,3 +28,9 @@ along with randomizing and assigning edges and weights. The adjacency list uses 
 vertex lookup, and so its O(1) there, and so adding edges and vertices is constant time plus the number of edges (always <8, here) as well. Getting the adjacencies for graph printing and 
 finding the shortest is O(E) so the drawing and shortest are O(V+E). Same for loading a new graph.
 
+=======
+JavaGrapher
+===========
+
+Java Adjacency List with GUI
+>>>>>>> e87510863787e9c6d80578399eeb1f98617372e4
